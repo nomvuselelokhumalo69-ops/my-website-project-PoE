@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Disallow admin or private directories (none currently)
+# Disallow: /admin/
+
+Sitemap: https://www.ubuntueats.co.za/sitemap.xml
